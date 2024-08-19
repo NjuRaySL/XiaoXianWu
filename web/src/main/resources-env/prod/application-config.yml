@@ -1,0 +1,20 @@
+view:
+  site:
+    websiteName: 小闲屋
+    websiteLogoUrl: https://wucoding.com/img/logo.svg
+    websiteFaviconIconUrl: https://wucoding.com/img/icon.png
+    contactMeTitle: 联系我 - 小闲屋的狗腿子
+    contactMeWxQrCode: https://cdn.tobebetterjavaer.com/wucoding/wucoding-qrcode.png
+    pageSize: 20
+    cdnImgStyle:
+    websiteRecord: 备案被小人偷袭了
+    wxLoginUrl: http://weixin.qq.com/r/WxwpMefE-rqBraNS90lJ
+    host: https://wucoding.com
+    welcomeInfo: 欢迎来到小闲屋，戳 <a href="/article/detail/155">小闲屋社区上线！</a> 了解我们
+    zsxqUrl: https://wucoding.com/article/detail/314
+    zsxqPosterUrl: https://cdn.tobebetterjavaer.com/tobebetterjavaer/images/javabetter.jpg
+    contactMeStarQrCode: https://cdn.tobebetterjavaer.com/tobebetterjavaer/images/qiye-weixin.png
+    oss: https://cdn.tobebetterjavaer.com/wucoding/static
+
+knife4j:
+  production: true # 开启屏蔽文档资源
